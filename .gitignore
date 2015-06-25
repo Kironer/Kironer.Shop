@@ -1,0 +1,10 @@
+#Junk Files
+*.DS_Store
+[Tt]humbs.db
+ 
+#Visual Studio Files
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Bb]uild/
+[Pp]ackages/
